@@ -1,9 +1,11 @@
-h2. The Adaptive Payments ColdFusion SDK is released as a beta sdk.  Please file any issues through the Github project.
-version 0.1.100
-
 h1. Adaptive Payments ColdFusion SDK
 
-This SDK includes a ColdFusion component library for making API calls to PayPal Adaptive Payments API.  The Adaptive Payments API allows merchants and developers to pay almost anyone and set up automated payments. They can create applications that manage payments, payment preapprovals, and refunds. They can also send money peer-to-peer, split payments in both parallel and chained models. 
+h4. This SDK is no longer actively supported. New implmentations should make use of the Rest API directly. 
+
+Rest API reference: https://developer.paypal.com/webapps/developer/docs/api/
+
+
+This SDK includes a ColdFusion component library for making API calls to PayPal Adaptive Payments API. The Adaptive Payments API allows merchants and developers to pay almost anyone and set up automated payments. They can create applications that manage payments, payment preapprovals, and refunds. They can also send money peer-to-peer, split payments in both parallel and chained models. 
 
 The sample code contained in this project contains documentation, sample code for each method along with configuration information. This project contains several files and directories that are required for integration:
 
